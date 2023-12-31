@@ -1,0 +1,6 @@
+standard sort ran for 0.016819 seconds
+bubble sort ran for 418.571 seconds
+insertion sort ran for 6e-06 seconds
+
+It is clear that the bubble sort takes significantly more time than the standard sort and the insertion sort.
+In terms of efficiency, insertion sort is by far the fastest sorting algorithm.
